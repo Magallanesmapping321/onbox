@@ -1,2 +1,2 @@
 # onbox
-just a little mail software that doesnt work
+just a little flat file mail software that doesnt work
