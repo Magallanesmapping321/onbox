@@ -6,4 +6,7 @@ just a little flat file mail software that doesnt work
 2. open index.php
 3. done
 
-limp bizkit is based
+# this thing doesnt work
+thats how it works, it doesnt work
+
+![image](https://pbs.twimg.com/media/E6hakWbX0AEZmJr.png)
