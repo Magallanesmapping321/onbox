@@ -14,8 +14,8 @@ $usermail = 'poopoopeepeefard69@elpe.pe';
 /* mail of the user */
 
 $usertype = 'peter griffin';
-/* passworte of the user */
+/* key of the user */
 
 $compose = 'POOPOO PEEPEE I STINK SADLY'; 
-/* default compose message (leave blank if gigachad)*/
+/* default compose message (leave blank if cringe)*/
 ?>
