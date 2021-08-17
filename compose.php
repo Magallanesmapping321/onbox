@@ -1,6 +1,7 @@
 <?php
 require('config.php');
 ?>
+<link rel="stylesheet" href="https://getbootstrap.com/docs/5.1/dist/css/bootstrap.min.css">
 <title><?php echo $siteTitle; ?> - Compose a mail</title>
 <style>
 textarea{
