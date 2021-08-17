@@ -7,6 +7,6 @@ require('config.php');
 <p>Current account: <?php echo $usermail; ?></p>
 <hr><center>Messages | <a href="compose.php">Compose message</a></center>
 <hr>
-Latest Messages | <a href="compose.php">Compose message</a><br><hr>
+Latest Messages | <a href="compose.php">Compose message</a> |  <a href="unread.php">Unread</a><br><hr>
 <a href="1.php"><?php echo $siteTitle; ?>                             | Welcome to <?php echo $siteTitle; ?>!</a>
 <hr>
