@@ -12,4 +12,9 @@ width: 658px;
 title:<input type="text" placeholder="i saw among us at 3 am"><br>
 <textarea>
  <?php echo $compose; ?>
-  </textarea><br><a href="login.php">compose xd</a></center>
+  </textarea><br><tr>
+                        <td>Attachment:</td>
+                        <td>
+                            <input type="file">
+                        </td>
+                    </tr><br><a href="login.php">compose xd</a></center>
